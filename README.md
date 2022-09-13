@@ -1,1 +1,1 @@
-Series of pythin projects and programs that I have coded.
+Series of python projects and programs based on OOP and machine learning concepts.
